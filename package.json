@@ -1,0 +1,26 @@
+{
+  "name": "publish_callback_npm_package",
+  "version": "1.0.0",
+  "description": "#callback #installnpm #npmpackage #publish ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/https-Haider/Publish-NPM-Package.git"
+  },
+  "keywords": [
+    "#callback",
+    "#installnpm",
+    "#npmpackage",
+    "#publish",
+    "#freecode"
+  ],
+  "author": "Haider Abbas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/https-Haider/Publish-NPM-Package/issues"
+  },
+  "homepage": "https://github.com/https-Haider/Publish-NPM-Package#readme"
+}

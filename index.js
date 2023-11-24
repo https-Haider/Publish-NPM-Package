@@ -9,3 +9,5 @@ function myDisplayer(some) {
   
   let result = myCalculator(5, 5);
   myDisplayer(result);
+
+  module.exports=myDisplayer;
